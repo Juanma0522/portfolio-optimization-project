@@ -1,6 +1,6 @@
 ## Portfolio Performance
 
-![Portfolio Performance](Figures/graph4)
+![Portfolio Performance](Figures/graph1)
 
 This project applies Modern Portfolio Theory to construct and analyze an optimized portfolio composed of major technology companies.
 
